@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Zodiac Academy 1. El despertar",
+    "author": "Caroline Peckham",
+    "category": "Fantasía",
+    "description": "Las gemelas Darcy y Tory Vega descubren que son herederas de un mundo mágico que nunca imaginaron.",
+    "price": 25900,
+    "image": "https://pdlibroschl.cdnstatics2.com/usuaris/libros/fotos/460/original/459634_portada_zodiac-academy-1-el-despertar__202606171115.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Fake Skating",
+    "author": "Lynn Painter",
+    "category": "Romance",
+    "description": "Un reencuentro de la infancia se convierte en un fingido romance en un pueblo obsesionado con el hockey.",
+    "price": 19900,
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781665921268/fake-skating-9781665921268_hr.jpg"
+  },
+  {
+    "id": 3,
+    "title": "A Love Letter to Whiskey",
+    "author": "Kandi Steiner",
+    "category": "Romance",
+    "description": "Una historia de amistad, música y amores que nunca llegan en el momento correcto.",
+    "price": 17900,
+    "image": "https://www.worldofbooks.com/cdn/shop/files/1923232088.jpg?v=1786613979"
+  },
+  {
+    "id": 4,
+    "title": "Heartless (Chestnut Springs 2)",
+    "author": "Elsie Silver",
+    "category": "Romance",
+    "description": "Un ranchero gruñón y padre soltero contrata a una niñera temporal que pondrá su vida, y su corazón, completamente de cabeza.",
+    "price": 29990,
+    "image": "https://m.media-amazon.com/images/P/1464263612.01._SCLZZZZZZZ_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Atmosphere",
+    "author": "Taylor Jenkins Reid",
+    "category": "Ficción",
+    "description": "Una astrónoma se une al programa del transbordador espacial de la NASA en los años 80 y descubre una pasión inesperada.",
+    "price": 18900,
+    "image": "https://images4.penguinrandomhouse.com/cover/9780593158739"
+  },
+  {
+    "id": 6,
+    "title": "Una corte de llamas plateadas",
+    "author": "Sarah J. Maas",
+    "category": "Fantasía",
+    "description": "ACOTAR 5: Nesta Archeron busca su lugar en un mundo letal, mientras enfrenta sus propios demonios.",
+    "price": 16900,
+    "image": "https://pdlibroschl.cdnstatics2.com/usuaris/libros/thumbs/09044276-4bcc-4610-abdb-5baa3f7c51f2/d_1200_1200/418640_408554_portada_una-corte-de-llamas-plateadas_sarah-j-maas_202404170212.webp"
+  }
+]
